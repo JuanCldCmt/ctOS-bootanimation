@@ -1,5 +1,5 @@
 # ctOS-bootanimation
-source is from yesimxev/nethunter-bootanimation
+Cool android boot animation. source is from yesimxev/nethunter-bootanimation
 
 ## Usage
 
