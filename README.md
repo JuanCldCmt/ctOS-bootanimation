@@ -5,5 +5,5 @@ Cool android boot animation. source is from yesimxev/nethunter-bootanimation
 
 ```
 cd out/target/product/poplar_dsds/system/media
-git clone https://github.com/JuanCldCmt/ctOS-bootanimation
+wget https://github.com/JuanCldCmt/ctOS-bootanimation/raw/master/bootanimation.zip
 ```
